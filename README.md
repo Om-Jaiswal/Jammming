@@ -8,4 +8,3 @@ Built with the help of,
 - Spotify API 
 
 ![alt text](./sample/demo_1.jpg)
-![alt text](./sample/demo_2.jpg)
